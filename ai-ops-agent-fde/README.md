@@ -1,4 +1,4 @@
-# AI Operations Agent — Forward Deployed AI Engineer Portfolio Project
+# AI Operations Agent
 
 A production-style AI Operations Agent for a SaaS company.
 
