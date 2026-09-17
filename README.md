@@ -130,3 +130,8 @@ POST `/approvals/{approval_id}`
 
 8. Evaluation:
    - add 50–200 historical incidents and measure tool-selection accuracy, groundedness, escalation rate, and unsafe-action rate
+  
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/f9f4bf97-5adb-4ba0-bc74-3f95c6e91185" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/62592c21-8a4c-4b53-ad99-deb9f43f132a" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/8dc62322-0930-4de7-9467-d52981f9bf2e" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e70e2935-0151-44ee-a2da-c20ca6ba16e4" />
